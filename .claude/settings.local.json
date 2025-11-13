@@ -3,7 +3,14 @@
     "allow": [
       "Bash(npm install:*)",
       "Bash(npm run build:*)",
-      "Bash(git add:*)"
+      "Bash(git add:*)",
+      "Bash(git commit:*)",
+      "Bash(git remote add:*)",
+      "Bash(git push:*)",
+      "Bash(git subtree push:*)",
+      "Bash(gh --version:*)",
+      "Bash(gh auth:*)",
+      "Bash(gh api:*)"
     ],
     "deny": [],
     "ask": []

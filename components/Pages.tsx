@@ -130,7 +130,7 @@ export const Page4: React.FC<PageProps> = ({ isActive }) => (
             </p>
         </AnimatedElement>
         <AnimatedElement isActive={isActive} delay="delay-200" className="lg:w-1/2 w-full">
-            <img src="https://github.com/man-with-scars/Future-Leaders/blob/main/clgfrnt.png?raw=1" alt="LEAD College Campus" className="rounded-lg shadow-2xl object-cover aspect-[4/3] w-full"/>
+            <img src="https://files.catbox.moe/gi2mpr.png" alt="LEAD College Campus" className="rounded-lg shadow-2xl object-cover aspect-[4/3] w-full"/>
         </AnimatedElement>
     </PageWrapper>
 );
