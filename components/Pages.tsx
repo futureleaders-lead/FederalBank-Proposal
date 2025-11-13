@@ -1,4 +1,3 @@
-
 import React from 'react';
 import { LOGOS, COLORS } from '../constants';
 import { CheckCircle, Target, Eye, ArrowRightLong, User, Phone } from './Icons';

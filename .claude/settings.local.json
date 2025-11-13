@@ -2,6 +2,7 @@
   "permissions": {
     "allow": [
       "Bash(npm install:*)",
+<<<<<<< HEAD
       "Bash(npm run build:*)",
       "Bash(git add:*)",
       "Bash(git commit:*)",
@@ -12,6 +13,12 @@
       "Bash(gh auth:*)",
       "Bash(gh api:*)",
       "Bash(npm run dev:*)"
+=======
+      "Bash(npm run dev:*)",
+      "Bash(timeout:*)",
+      "Bash(nul)",
+      "Bash(echo:*)"
+>>>>>>> 32fe84a (Initial commit)
     ],
     "deny": [],
     "ask": []
